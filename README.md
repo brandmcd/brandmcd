@@ -50,6 +50,6 @@
 ###### Due to the nature of the event, I am unable to share the code for this project.
 ---
 ### FRC Robotics
-#### 2023 - cont.
-###### I am a member of FRC Team 453 "Rock'em Sock'em Robotics" and I am on the programming team. We program our robot in Java and we compete in the FIRST Robotics Competition. Being a member of this team has taught me a lot about teamwork and programming. I have also learned a lot about the engineering process.
+#### 2023 
+###### I was a member of FRC Team 453 "Rock'em Sock'em Robotics" on the programming team. We programed our robot in Java and we competed in the FIRST Robotics Competition. Being a member of this team taught me a lot about teamwork and programming. I also learned a lot about the engineering process.
 ---
