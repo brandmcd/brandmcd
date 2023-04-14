@@ -8,8 +8,7 @@
 
 ### AP Computer Science A
 #### 2021-2022
-###### I took AP Computer Science A in my sophomore year with Mr. Adam Sanborn, I received a 5 on the AP exam. I learned the basics of programming in Java, and I completed several projects that demonstrate my skills in this language. You can check out all of my projects on this repository.
-###### https://github.com/brandonmcd0313/APCSA
+###### I took AP Computer Science A in my sophomore year with Mr. Adam Sanborn, I received a 5 on the AP exam. I learned the basics of programming in Java, and I completed several projects that demonstrate my skills in this language. You can check out all of my projects on [this repository.](https://github.com/brandonmcd0313/APCSA)
 ---
 ### FRC Robotics
 #### 2023 
