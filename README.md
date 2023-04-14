@@ -47,12 +47,12 @@
 #### December 2022
 ###### To the moon is a two-player platformer game meant to be played on an arcade machine. Players play as astronauts who must work together to complete challenges to reach the moon. THis was my first project that used GitHub to allow collobration on a team!
 ##### This game was made in collaboration with @TheSoulCollect2 (Alex Foxx) on art design and @SlayerOfWomen (Shawn McBride) as a co-programmer.
-###### [Repo]https://github.com/brandonmcd0313/IntermediatePlatformer
+###### [Repo](https://github.com/brandonmcd0313/IntermediatePlatformer)
 ---
 ### Astral Encounter
 #### January-February 2023
 ###### Astral Encounter was my final project for my first semester of C# Programming and Game Design. It is an arcade game where you play as a spaceship and travel to different planets collecting power-ups in the hope of getting the best score. The game uses the Firebase database to hold high scores, allowing players to compete with each other for the top spot. The game is still on the classroom arcade machine!
-###### [Repo]https://github.com/brandonmcd0313/Astral_Encounter
+###### [Repo](https://github.com/brandonmcd0313/Astral_Encounter)
 ---
 
 </details>
