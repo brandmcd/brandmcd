@@ -1,5 +1,5 @@
 # Hi! I'm Brandon!
-#### I am a highschool junior at the Frederick V. Pankow Center. I'm passionate about programming and game design, and I have completed various projects that showcase my abilities in these fields.
+#### I am a senior at the Frederick V. Pankow Center. I'm passionate about programming and game design, and I have completed various projects that showcase my abilities in these fields.
 #### I have worked with the Unity Game Engine utilizing the C# programming language for game development. In addition, I have experience with the Java programming language.
 ### Here are some examples of my past projects and experience:
 ---
