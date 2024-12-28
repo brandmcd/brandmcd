@@ -33,7 +33,7 @@
   - Leading initiatives supporting FIRST alumni and local robotics teams.  
 - Mentoring middle school FIRST Tech Challenge teams.  
   - Teaching **Java programming** using Android Studio.  
-- Volunteering at FIRST Robotics events in key roles.  
+- Volunteering at FIRST Robotics events!  
 
 ### 🎮 Games I've Made
 
