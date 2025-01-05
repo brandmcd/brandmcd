@@ -30,7 +30,8 @@
   - [2024 Team Repo](https://github.com/team453/2024Bot)
 - **FAMNM** (FIRST Alumni and Mentors Network at Michigan)  
   - *Director of Project Development*  
-  - Leading initiatives supporting FIRST alumni and local robotics teams.  
+  - Leading initiatives supporting FIRST alumni and local robotics teams.
+  - Robot in 3 Days!
 - Mentoring middle school FIRST Tech Challenge teams.  
   - Teaching **Java programming** using Android Studio.  
 - Volunteering at FIRST Robotics events!  
