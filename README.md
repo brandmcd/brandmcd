@@ -12,6 +12,7 @@
 ![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/-Python-yellow?logo=python&logoColor=white) 
 ![Shell Scripting](https://img.shields.io/badge/-Shell_Scripting-black?logo=gnu-bash&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
 ![Unity](https://img.shields.io/badge/-Unity-black?logo=unity&logoColor=white) 
 ![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white) 
