@@ -4,7 +4,6 @@
 - 🎓 Undergraduate at the **University of Michigan College of Engineering**  
 - 🧑‍💻 Dual Degree Program for **Computer Science** and **Robotics**  
 - 📅 **Graduation Date**: December 2027 (Expected)  
-- 📊 **GPA**: 4.0/4.0  
 
 ![C](https://img.shields.io/badge/-C-blue?logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus&logoColor=white) 
@@ -27,15 +26,15 @@
 ## 🛠️ My Projects
 
 ### 🤖 FIRST Robotics
-- **Team 453 Alumni**
-  - [2024 Team Repo](https://github.com/team453/2024Bot)
 - **FAMNM** (FIRST Alumni and Mentors Network at Michigan)  
   - *Director of Project Development*  
   - Leading initiatives supporting FIRST alumni and local robotics teams.
   - Robot in 3 Days!
 - Mentoring middle school FIRST Tech Challenge teams.  
   - Teaching **Java programming** using Android Studio.  
-- Volunteering at FIRST Robotics events!  
+- Volunteering at FIRST Robotics events!
+- **Team 453 Alumni**
+  - [2024 Team Repo](https://github.com/team453/2024Bot)
 
 ### 🎮 Games I've Made
 
