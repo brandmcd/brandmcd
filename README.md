@@ -29,7 +29,7 @@
   - *Director of Project Development*  
   - Leading initiatives supporting FIRST alumni and local robotics teams.
   - [Robot in 3 Days!](https://www.chiefdelphi.com/t/famnm-ri3d-2025/477570?u=famnm)
-- Mentoring middle school FIRST teams.  
+- Mentoring middle and high school FIRST teams.  
   - Teaching **Java programming** and design.  
 - Volunteering at FIRST Robotics events!
 - **Team 453 Alumni**
