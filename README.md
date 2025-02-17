@@ -1,4 +1,4 @@
-# Hey there 👋, I'm Brandon!
+# Hey there 👋, I'm Brandon! 
 
 ## 👨‍🎓 About Me
 - 🎓 Undergraduate at the **University of Michigan College of Engineering**  
@@ -19,7 +19,6 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?logo=visualstudiocode&logoColor=white) 
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-purple?logo=visualstudio&logoColor=white) 
 ![Linux](https://img.shields.io/badge/-Linux-yellow?logo=linux&logoColor=white) 
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-green?logo=androidstudio&logoColor=white)
 
 ---
 
@@ -29,28 +28,20 @@
 - **FAMNM** (FIRST Alumni and Mentors Network at Michigan)  
   - *Director of Project Development*  
   - Leading initiatives supporting FIRST alumni and local robotics teams.
-  - Robot in 3 Days!
-- Mentoring middle school FIRST Tech Challenge teams.  
-  - Teaching **Java programming** using Android Studio.  
+  - [Robot in 3 Days!](https://www.chiefdelphi.com/t/famnm-ri3d-2025/477570?u=famnm)
+- Mentoring middle school FIRST teams.  
+  - Teaching **Java programming** and design.  
 - Volunteering at FIRST Robotics events!
 - **Team 453 Alumni**
   - [2024 Team Repo](https://github.com/team453/2024Bot)
 
-### 🎮 Games I've Made
+### 🎮 Best Games I've Made
 
 [![Armored Heart](https://img.shields.io/badge/Armored%20Heart-Itch.io-red)](https://brandonmcdonald.itch.io/armored-heart)
 [![Butler Beckoned](https://img.shields.io/badge/Butler%20Beckoned-LudumDare55-blue)](https://ldjam.com/events/ludum-dare/55/butler-beckoned)
 [![What's Missing?](https://img.shields.io/badge/What's%20Missing%3F-Itch.io-green)](https://brandonmcdonald.itch.io/whats-missing)
-[![Frog of War](https://img.shields.io/badge/Frog%20of%20War-Itch.io-yellow)](https://brandonmcdonald.itch.io/frog-of-war)
 [![Astral Encounter](https://img.shields.io/badge/Astral%20Encounter-Itch.io-purple)](https://brandonmcdonald.itch.io/astral-encounter)
-[![Garbage Simulator](https://img.shields.io/badge/Garbage%20Simulator-LudumDare54-orange)](https://ldjam.com/events/ludum-dare/54/garbage-simulator)
 [![Beach Battle!](https://img.shields.io/badge/Beach%20Battle!-Itch.io-cyan)](https://brandonmcdonald.itch.io/beach-battle)
-[![Time Isn't Real](https://img.shields.io/badge/Time%20Isn't%20Real-LudumDare51-pink)](https://ldjam.com/events/ludum-dare/51/time-isnt-real)
-[![The House Game](https://img.shields.io/badge/The%20House%20Game-Itch.io-lightgrey)](https://brandonmcdonald.itch.io/house-game)
-[![Game of Peace](https://img.shields.io/badge/Game%20of%20Peace-Itch.io-brightgreen)](https://brandonmcdonald.itch.io/game-of-peace)
-[![A New Pankow Adventure](https://img.shields.io/badge/A%20New%20Pankow%20Adventure-Itch.io-blueviolet)](https://brandonmcdonald.itch.io/a-new-pankow-adventure)
-[![Rent Day!](https://img.shields.io/badge/Rent%20Day!-Itch.io-gold)](https://brandonmcdonald.itch.io/rent-day)
-[![Backrooms Simulator](https://img.shields.io/badge/Backrooms%20Simulator-Itch.io-darkblue)](https://brandonmcdonald.itch.io/backrooms-simulator)
 
 <details>
 <summary>Interactive Coding Challenge for Science Olympiad</summary>
