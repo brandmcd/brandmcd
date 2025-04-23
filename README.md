@@ -26,7 +26,7 @@
 
 ### 🤖 FIRST Robotics
 - **FAMNM** (FIRST Alumni and Mentors Network at Michigan)  
-  - *Director of Project Development*  
+  - *President*  
   - Leading initiatives supporting FIRST alumni and local robotics teams.
   - [Robot in 3 Days!](https://www.chiefdelphi.com/t/famnm-ri3d-2025/477570?u=famnm)
 - Mentoring middle and high school FIRST teams.  
