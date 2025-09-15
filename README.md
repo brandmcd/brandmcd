@@ -2,8 +2,8 @@
 
 ## 👨‍🎓 About Me
 - 🎓 Undergraduate at the **University of Michigan College of Engineering**  
-- 🧑‍💻 Dual Degree Program for **Computer Science** and **Robotics**  
-- 📅 **Graduation Date**: December 2027 (Expected)  
+- **Robotics Major**  
+- 📅 **Graduation Date**: June 2027 (Expected)  
 
 ![C](https://img.shields.io/badge/-C-blue?logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus&logoColor=white) 
