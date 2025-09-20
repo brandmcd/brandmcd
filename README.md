@@ -56,5 +56,5 @@
 
 ## 📫 Connect With Me
 - 💻 [GitHub](https://github.com/brandmcd)  
-- 🔗 [LinkedIn](https://linkedin.com/in/brandmcd](https://www.linkedin.com/in/brandon-mcdonald-b90079186/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/brandon-mcdonald-b90079186/)  
 - 🎮 [Itch.io](https://brandonmcdonald.itch.io)  
