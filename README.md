@@ -50,6 +50,6 @@
 
 ### 🎄 Advent of Code
 - Solved **2024 Advent of Code** challenges in modern **C++**, focusing on performance and clarity.  
-- [View Solutions](https://github.com/brandmcd/advent-of-code-2024)  /
+- [View Solutions](https://github.com/brandmcd/advent-of-code-2024)  
   
 ---
