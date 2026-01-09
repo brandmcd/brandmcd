@@ -45,7 +45,3 @@ I build and study **full-stack robotic systems**, with a growing research intere
 - Support and lead large-scale robotics competitions and outreach programs
 
 ---
-
-### 📌 Currently
-- Looking for opportunities in **robotics research**  
-- Continuing research and systems development with **iGym**
