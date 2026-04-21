@@ -21,6 +21,7 @@ Undergraduate research assistant in [**DASC Lab**](https://dasc-lab.github.io/)
 ![Unity](https://img.shields.io/badge/-Unity-black?logo=unity&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-yellow?logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white)
+![CMake](https://img.shields.io/badge/-CMake-064F8C?logo=cmake&logoColor=white)
 
 ![CAD](https://img.shields.io/badge/-CAD-lightgrey)
 ![Onshape](https://img.shields.io/badge/-Onshape-blue?logo=onshape&logoColor=white)
