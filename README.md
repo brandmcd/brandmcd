@@ -3,6 +3,7 @@
 **Robotics Engineering** undergraduate at the **University of Michigan**  
 Undergraduate research assistant on [**iGym (AR/XR systems for inclusive play)**](https://xrnet.eecs.umich.edu/)  
 Undergraduate research assistant in [**DASC Lab**](https://dasc-lab.github.io/)
+
 ---
 
 ### Technical Stack
