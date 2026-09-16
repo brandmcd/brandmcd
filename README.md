@@ -31,19 +31,19 @@ Undergraduate research assistant in [**DASC Lab**](https://dasc-lab.github.io/)
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://brandmcd-stats.vercel.app/api?username=brandmcd&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&hide_title=true&bg_color=ffffff00&title_color=a78bfa&text_color=adbac7&icon_color=22d3ee" />
-  <img align="top" src="https://brandmcd-stats.vercel.app/api?username=brandmcd&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&hide_title=true&bg_color=ffffff00&title_color=6d28d9&text_color=24292f&icon_color=0e7490" alt="GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://brandmcd-stats.vercel.app/api/top-langs/?username=brandmcd&size_weight=0.3&count_weight=0.7&hide=makefile,tex,shaderlab,hlsl&layout=compact&langs_count=8&hide_border=true&hide_title=true&bg_color=ffffff00&title_color=a78bfa&text_color=adbac7" />
-  <img align="top" src="https://brandmcd-stats.vercel.app/api/top-langs/?username=brandmcd&size_weight=0.3&count_weight=0.7&hide=makefile,tex,shaderlab,hlsl&layout=compact&langs_count=8&hide_border=true&hide_title=true&bg_color=ffffff00&title_color=6d28d9&text_color=24292f" alt="Most used languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://brandmcd-streak.vercel.app/?user=brandmcd&mode=weekly&background=00000000&hide_border=true&stroke=30363d&ring=a78bfa&fire=22d3ee&currStreakNum=adbac7&sideNums=adbac7&currStreakLabel=a78bfa&sideLabels=8b949e&dates=6e7681" />
+  <img src="https://brandmcd-streak.vercel.app/?user=brandmcd&mode=weekly&background=00000000&hide_border=true&stroke=d0d7de&ring=6d28d9&fire=0e7490&currStreakNum=24292f&sideNums=24292f&currStreakLabel=6d28d9&sideLabels=57606a&dates=6e7681" alt="Contribution streak" />
 </picture>
 
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://brandmcd-streak.vercel.app/?user=brandmcd&background=00000000&hide_border=true&stroke=30363d&ring=a78bfa&fire=22d3ee&currStreakNum=adbac7&sideNums=adbac7&currStreakLabel=a78bfa&sideLabels=8b949e&dates=6e7681" />
-  <img src="https://brandmcd-streak.vercel.app/?user=brandmcd&background=00000000&hide_border=true&stroke=d0d7de&ring=6d28d9&fire=0e7490&currStreakNum=24292f&sideNums=24292f&currStreakLabel=6d28d9&sideLabels=57606a&dates=6e7681" alt="Contribution streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://brandmcd-stats.vercel.app/api?username=brandmcd&show_icons=true&include_all_commits=true&hide_rank=true&hide=stars&hide_border=true&hide_title=true&bg_color=ffffff00&title_color=a78bfa&text_color=adbac7&icon_color=22d3ee" />
+  <img align="top" src="https://brandmcd-stats.vercel.app/api?username=brandmcd&show_icons=true&include_all_commits=true&hide_rank=true&hide=stars&hide_border=true&hide_title=true&bg_color=ffffff00&title_color=6d28d9&text_color=24292f&icon_color=0e7490" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://brandmcd-stats.vercel.app/api/top-langs/?username=brandmcd&layout=compact&langs_count=6&hide=makefile,tex,shaderlab,hlsl,objective-c%2B%2B,html,css&size_weight=0.3&count_weight=0.7&hide_border=true&hide_title=true&bg_color=ffffff00&title_color=a78bfa&text_color=adbac7" />
+  <img align="top" src="https://brandmcd-stats.vercel.app/api/top-langs/?username=brandmcd&layout=compact&langs_count=6&hide=makefile,tex,shaderlab,hlsl,objective-c%2B%2B,html,css&size_weight=0.3&count_weight=0.7&hide_border=true&hide_title=true&bg_color=ffffff00&title_color=6d28d9&text_color=24292f" alt="Most used languages" />
 </picture>
 
 </div>
