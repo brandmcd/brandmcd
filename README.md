@@ -24,3 +24,25 @@ Undergraduate research assistant in [**DASC Lab**](https://dasc-lab.github.io/)
 
 ![CAD](https://img.shields.io/badge/-CAD-lightgrey)
 ![Onshape](https://img.shields.io/badge/-Onshape-blue?logo=onshape&logoColor=white)
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://brandmcd-stats.vercel.app/api?username=brandmcd&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&hide_title=true&bg_color=ffffff00&title_color=a78bfa&text_color=8b949e&icon_color=22d3ee" />
+  <img align="top" width="49%" src="https://brandmcd-stats.vercel.app/api?username=brandmcd&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&hide_title=true&bg_color=ffffff00&title_color=6d28d9&text_color=24292f&icon_color=0e7490" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://brandmcd-stats.vercel.app/api/top-langs/?username=brandmcd&size_weight=0.3&count_weight=0.7&hide=makefile,tex,shaderlab,hlsl&layout=donut-vertical&hide_border=true&langs_count=6&hide_title=true&bg_color=ffffff00&title_color=a78bfa&text_color=8b949e" />
+  <img align="top" width="49%" src="https://brandmcd-stats.vercel.app/api/top-langs/?username=brandmcd&size_weight=0.3&count_weight=0.7&hide=makefile,tex,shaderlab,hlsl&layout=donut-vertical&hide_border=true&langs_count=6&hide_title=true&bg_color=ffffff00&title_color=6d28d9&text_color=24292f" alt="Top languages" />
+</picture>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://brandmcd-streak.vercel.app/?user=brandmcd&theme=transparent&hide_border=true&ring=a78bfa&fire=22d3ee&currStreakLabel=a78bfa" />
+  <img width="62%" src="https://brandmcd-streak.vercel.app/?user=brandmcd&theme=transparent&hide_border=true&ring=6d28d9&fire=0e7490&currStreakLabel=6d28d9" alt="GitHub streak" />
+</picture>
+
+</div>
